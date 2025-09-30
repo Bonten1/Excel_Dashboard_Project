@@ -1,4 +1,5 @@
 # Excel Salary Dashboard
+<img width="800" height="333" alt="image" src="https://github.com/user-attachments/assets/44bdace5-1d72-457b-ac09-4d61d341fc5c" />
 
 ![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
@@ -33,6 +34,7 @@ The dataset used for this project contains real-world data science job informati
 ### 📉 Charts
 
 #### 📊 Data Science Job Salaries - Bar Chart
+<img width="1336" height="867" alt="image" src="https://github.com/user-attachments/assets/ab9fb42b-d0c7-444e-a36b-90712e014543" />
 
 <img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
@@ -42,6 +44,7 @@ The dataset used for this project contains real-world data science job informati
 - 💡 **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 #### 🗺️ Country Median Salaries - Map Chart
+<img width="800" height="430" alt="image" src="https://github.com/user-attachments/assets/727bba2a-f5d4-489d-9e4c-3c7f0b870812" />
 
 ![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
 
@@ -73,10 +76,12 @@ IF(
 - **🔢 Formula Purpose:** This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
 🍽️ Background Table
+<img width="265" height="220" alt="image" src="https://github.com/user-attachments/assets/01fa3679-5e08-46bf-ba9a-a4709a33d873" />
 
 ![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
 
 📉 Dashboard Implementation
+<img width="1148" height="1214" alt="image" src="https://github.com/user-attachments/assets/ca33a087-568d-4a62-bd55-74f65cad4e46" />
 
 <img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
 
@@ -90,10 +95,12 @@ IF(
 - **🔢 Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
 
 🍽️ Background Table
+<img width="195" height="119" alt="image" src="https://github.com/user-attachments/assets/a8f5d280-7c3b-40fd-b70b-febab8ad9a49" />
 
 ![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
 
 📉 Dashboard Implementation:
+<img width="942" height="1212" alt="image" src="https://github.com/user-attachments/assets/bdce8eaf-1e57-4bc2-962d-11a9bfe44ba1" />
 
 <img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
 
@@ -105,6 +112,7 @@ IF(
     - 🎯 User input is restricted to predefined, validated schedule types
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
+<img width="624" height="602" alt="image" src="https://github.com/user-attachments/assets/81d678ea-6a97-4acb-b11c-69b441ddb15d" />
 
 <img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
