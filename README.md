@@ -1,7 +1,7 @@
 # Excel Salary Dashboard
-<img width="800" height="333" alt="image" src="https://github.com/user-attachments/assets/44bdace5-1d72-457b-ac09-4d61d341fc5c" />
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+ ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/3f70cbfc-a721-44a8-b6a2-aacadf50faec)
+
 
 ## Introduction
 
@@ -44,9 +44,9 @@ The dataset used for this project contains real-world data science job informati
 - 💡 **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 #### 🗺️ Country Median Salaries - Map Chart
-<img width="800" height="430" alt="image" src="https://github.com/user-attachments/assets/727bba2a-f5d4-489d-9e4c-3c7f0b870812" />
 
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+![1_Salary_Dashboard_Country_Map](https://github.com/user-attachments/assets/af5cdb53-5a7f-48d3-8535-642aa9cbe172)
+
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -112,9 +112,9 @@ IF(
     - 🎯 User input is restricted to predefined, validated schedule types
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
-<img width="624" height="602" alt="image" src="https://github.com/user-attachments/assets/81d678ea-6a97-4acb-b11c-69b441ddb15d" />
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+![1_Salary_Dashboard_Data_Validation](https://github.com/user-attachments/assets/67ffff51-fe76-460f-b616-020816f0968b)
+
 
 ## Conclusion
 
